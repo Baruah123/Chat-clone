@@ -28,7 +28,7 @@ git clone https://github.com/yourusername/chat-box.git
 npm install
 ```
 
-<p>3. Create a .env file in the root directory and add your Gemini AI API key:</p>
+3. Create a .env file in the root directory and add your Gemini AI API key:</p>
 
 ```
 REACT_APP_GEMINI_API_KEY=your-gemini-api-key
@@ -42,4 +42,18 @@ npm start
 
 <h2>🍰 Contribution Guidelines:</h2>
 
-Contributions are welcome! To contribute: Fork the repository. Create a new branch (git checkout -b feature/your-feature). Commit your changes (git commit -m 'Add feature'). Push to the branch (git push origin feature/your-feature). Open a pull request.
+<h3>Contributions are welcome!</h3>
+To contribute: 
+<p>1.Fork the repository. </p>
+
+<p>2.Create a new branch</p>
+
+```git checkout -b feature/your-feature```
+<p>3.Commit your changes</p> 
+
+```git commit -m 'Add feature' ```
+<p>4.Push to the branch</p>
+
+```git push origin feature/your-feature``` 
+
+<p></p>5.Open a pull request.</p>
